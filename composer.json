@@ -1,0 +1,16 @@
+{
+    "name": "cachesistemas/classe-simples-telegram",
+    "description": "Classe Simples Telegram PHP",
+    "autoload": {
+        "psr-4": {
+            "Cachesistemas\\ClasseSimplesTelegram\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raphael Serafim",
+            "email": "raphaelvserafim@gmail.com"
+        }
+    ],
+    "require": {}
+}
